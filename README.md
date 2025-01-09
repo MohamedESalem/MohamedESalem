@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **mohamed.e.salem@protonmail.com**
 
-- ⚡ Fun fact **I combine legal expertise with backend development to build innovative solutions.**
+- ⚡ Fun fact **I fuel my coding sessions with fresh juices instead of coffee.**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/mohamedessam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamedessam" height="30" width="40" /></a>
+  <a href="https://dev.to/mohamedessam" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2F78hs31fax49uwy6kbxyw.png" alt="mohamedessam" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mohamed-essam-salem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-essam-salem" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/mohamed_e_salem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamed_e_salem" height="30" width="40" /></a>
 </p>
@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
